@@ -2,7 +2,7 @@ package ua.od.hillel;
 
 public class HW_2 {
     public static void main(String[] args) {
-        int[] array1 = {1, 5, 97};
+        int[] array1 = {-11, 5, 97};
         int[] array2 = {2, 3, 8, 17, 23, 57, 76, 112};
         int length = array1.length + array2.length;
         int[] array3 = new int[length];
