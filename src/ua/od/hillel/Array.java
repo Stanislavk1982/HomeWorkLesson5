@@ -1,8 +1,5 @@
 package ua.od.hillel;
-
-/**
- * Created by Стивен on 05.04.2016.
- */
+ 
 public class Array {
     public static void main(String[] args) {
         int[] array = {2, 6, 3, 12, 7, 4, 1, 5, 88, 9};
