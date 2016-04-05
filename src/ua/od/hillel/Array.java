@@ -21,7 +21,7 @@ public class Array {
             temp = array[i];
             array[i] = array[tempIndex];
             array[tempIndex] = temp;}
-           
+
         }
 
         Utils.printArray(array);
