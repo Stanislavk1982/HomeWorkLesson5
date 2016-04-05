@@ -24,5 +24,4 @@ public class Array {
         Utils.printArray(array);
         System.out.println(counter);
     }
-
 }
