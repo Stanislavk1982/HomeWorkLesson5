@@ -19,7 +19,6 @@ public class Array {
                 array[i] = array[tempIndex];
                 array[tempIndex] = temp;
             }
-
         }
         Utils.printArray(array);
         System.out.println(counter);
